@@ -1,3 +1,0 @@
-FLAGS=  -ggdb -std=c99 -Wall -Wextra -pedantic
-
-CLIBFLAGS= -lm
