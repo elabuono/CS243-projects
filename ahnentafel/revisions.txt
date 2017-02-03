@@ -1,0 +1,35 @@
+commit 476c0f1e50010c95ebbf46ee67e187d383a83e3b
+Author: Erica  Labuono <exl2748@cs.rit.edu>
+Date:   Fri Sep 30 00:18:36 2016 -0400
+
+    Tested, seems to be functional, trying for 1st submissions on try
+
+commit 09242619fbb9077fb038b34b2cd4fe68369da127
+Author: Erica  Labuono <exl2748@cs.rit.edu>
+Date:   Thu Sep 29 22:26:37 2016 -0400
+
+    Menu works entirely, completing argc > 2 requirements
+
+commit e6c7e093b0019a99b407dc2b978419903d893104
+Author: Erica  Labuono <exl2748@cs.rit.edu>
+Date:   Thu Sep 29 02:06:20 2016 -0400
+
+    Item 2 and 3 are complete, Item 4 has begun :).
+
+commit 9ad0008e25de70e5e4bbbefdc9beee25c1627c01
+Author: Erica  Labuono <exl2748@cs.rit.edu>
+Date:   Thu Sep 29 00:23:49 2016 -0400
+
+    Completed the family relationship printing, tubular.
+
+commit 256b5466a1a7285f0de99c9e2dae03a2e0fff598
+Author: Erica  Labuono <exl2748@cs.rit.edu>
+Date:   Wed Sep 28 19:00:42 2016 -0400
+
+    Conversion functions written.
+
+commit ade532870556dd881a88f575db85fc5697a377ad
+Author: Erica  Labuono <exl2748@cs.rit.edu>
+Date:   Tue Sep 27 23:08:05 2016 -0400
+
+    Began handling input for argc = 1.
